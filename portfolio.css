@@ -11,7 +11,6 @@ body{
     border-radius: 5px;
 }
 section{
-    display: flex;
     padding-bottom: 150px;
 }
 .half-width{
@@ -51,4 +50,7 @@ section{
 }
 .r-pad{
     padding-right: 100px;
+}
+.flexible-container{
+    display: flex;
 }
