@@ -54,3 +54,25 @@ section{
 .flexible-container{
     display: flex;
 }
+.shadow{
+    box-shadow: 5px 7px 40px gray;
+    margin: 0% 5% 0% 5%;
+    padding-right: 20px;
+    padding-bottom: 100px;
+}
+.title-2{
+    font-size: 40px;
+}
+.border-b{
+    border-left: 7px solid blue;
+}
+.border-o{
+    border-left: 7px solid rgb(255, 109, 79);
+}
+.footer{
+    text-align: center;
+}
+.experience{
+    background-image: url(Icons/exp-bg.png);
+    background-repeat: no-repeat;
+}
